@@ -1,4 +1,4 @@
-# Minecraft-Servers-UID-Extractor
+# Minecraft Servers UID Extractor
 A batch script to automatically search and back up Minecraft server files based on specified UIDs, preserving folder structure without modifying the original files.
 
 
